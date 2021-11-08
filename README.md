@@ -1,7 +1,7 @@
-<h1 align="center">Anon-SMS v1.4</h1>
+<h1 align="center">Anon-SMS v1.4 by chrismory</h1>
 <p align="center">Anonymous Message Sender for Linux And Termux.</p><br>
 
-## Updates:
+## last Updates:
 **v1.0**<br>
 [+] Basic Features<br>
 [+] Non-Colourful Interface.<br><br>
@@ -84,18 +84,14 @@ sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
-- **HACK3RY2J**<br>
-[@] Mail At: HACK3RY2J@gmail.com
+- **moryoth**<br>
+[@] Mail At: chrismory22@gmail.com
 
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
+                 Mail: chrismory22@gmail.com
+      
 ```
-
-<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://www.henryhacks.blogspot.com">Check Out Our Blog Page</a><br>
-<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a>
