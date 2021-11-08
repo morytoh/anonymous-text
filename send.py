@@ -27,10 +27,7 @@ b='\033[1m'
 W = '\033[0m'
 colors = ['\033[1;31m', '\033[1;32m', '\033[1;33m', '\033[1;34m', '\033[1;35m', '\033[1;36m']
 
-# The Credit For This Code Goes To Panda Hackers https://github.com/HACK3RY2J/
-# And The Contributors Mentioned At https://github.com/HACK3RY2J/ANon-SMS/
-# If You Wanna Take Credits, Please Look Yourself Again!!
-
+# The Credit For This Code Goes To chrismory | instagram @chrismoryofficial for creating this system
 def clr():
 	if os.name == 'nt':
 		os.system('cls')
@@ -147,7 +144,7 @@ elif type == 0:
 		if not numbe.isdigit():
 		            print('\n\nPhone Number Must Consist Of Numbers Only\n')
 		            continue
-		receiver = '+' + numbe
+		receiver = '+' + number
 		text = input("Enter Message to send : ")
 		
 		resp = requests.post('https://textbelt.com/text',{
